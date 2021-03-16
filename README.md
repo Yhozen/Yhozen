@@ -5,6 +5,10 @@
 
 - 🔭 I’m currently working on [Rokket Labs](https://github.com/rokket-labs)
 
+- 👨‍💻 All of my projects are available at [https://garox.org/](https://garox.org/)
+
+- 💬 Ask me about **React, WebAssembly, Life 🌱**
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
@@ -23,3 +27,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yhozen&show_icons=true&locale=en&layout=compact" alt="yhozen" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yhozen&show_icons=true&locale=en" alt="yhozen" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yhozen&" alt="yhozen" /></p>
