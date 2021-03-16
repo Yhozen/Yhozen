@@ -11,6 +11,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Natural Language Processing en React con Rust + WebAssembly](https://medium.com/@garox/natural-language-processing-en-react-con-rust-webassembly-6ebd1c43a0dc?source=rss-d24f74e37d61------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
