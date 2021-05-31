@@ -11,6 +11,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Entendiendo los contratos inteligentes | ERC-20](https://garox.medium.com/entendiendo-los-contratos-inteligentes-erc-20-70bd4c23c49d?source=rss-d24f74e37d61------2)
 - [Entendiendo los contratos inteligentes | Introducción](https://garox.medium.com/entendiendo-los-contratos-inteligentes-parte-1-98572c489914?source=rss-d24f74e37d61------2)
 - [Natural Language Processing en React con Rust + WebAssembly](https://garox.medium.com/natural-language-processing-en-react-con-rust-webassembly-6ebd1c43a0dc?source=rss-d24f74e37d61------2)
 <!-- BLOG-POST-LIST:END -->
