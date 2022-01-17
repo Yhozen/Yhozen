@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Rokket Labs](https://github.com/rokket-labs)
 
-- 👨‍💻 All of my projects are available at [https://garox.org/](https://garox.org/)
+- 👨‍💻 All of my projects are available at [https://garox.org/](https://garox.eth.link/)
 
 - 💬 Ask me about **React, WebAssembly, Life 🌱**
 
