@@ -8,7 +8,7 @@
 - 👨‍💻 All of my projects are available at [https://garox.org/](https://garox.org/)
 
 - 💬 Ask me about **React, WebAssembly, Life 🌱**
-- 
+
 ### Now playing
 <a href="https://portfolio-backend-seven.vercel.app/api/now-playing?open">
     <img src="https://portfolio-backend-seven.vercel.app/api/now-playing" width="256" height="64" alt="Now Playing">
