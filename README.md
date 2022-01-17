@@ -9,6 +9,10 @@
 
 - 💬 Ask me about **React, WebAssembly, Life 🌱**
 
+<a href="https://portfolio-backend-seven.vercel.app/api/now-playing?open">
+    <img src="https://portfolio-backend-seven.vercel.app/api/now-playing" width="256" height="64" alt="Now Playing">`
+</a>
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Entendiendo los contratos inteligentes | ERC-20](https://garox.medium.com/entendiendo-los-contratos-inteligentes-erc-20-70bd4c23c49d?source=rss-d24f74e37d61------2)
