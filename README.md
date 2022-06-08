@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
 <h3 align="center">If one day JS kills me, do not cry because I was smiling</h3>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yhozen" alt="yhozen" /></a> </p>
 
-- 🔭 I’m currently working on [Rokket Labs](https://github.com/rokket-labs)
+![status](https://badge.stateful.com/Yhozen/status.svg) ![status](https://badge.stateful.com/Yhozen/dnd.svg)
+
+- 🔭 I’m currently working @ [Lemontech](https://github.com/lemontechSA/) 
 
 - 👨‍💻 All of my projects are available at [https://garox.org/](https://garox.eth.link/)
 
