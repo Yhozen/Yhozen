@@ -4,7 +4,7 @@
 
 ![status](https://badge.stateful.com/Yhozen/status.svg) ![status](https://badge.stateful.com/Yhozen/dnd.svg)
 
-- 🔭 I’m currently working @ [Lemontech](https://github.com/lemontechSA/) 
+- 🔭 I’m currently working @ [Lemontech 🍋](https://github.com/lemontechSA/) 
 
 - 👨‍💻 All of my projects are available at [https://garox.org/](https://garox.eth.link/)
 
